@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./speciesgeneraeto0302agar_0009.png"; bbox 0 0 1937 3315; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 536 612 1190 678">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 536 612 1190 678">
+     <span class='ocr_line' id='line_1_1' title="bbox 536 612 1190 678; baseline 0.011 -7"><span class='ocrx_word' id='word_1_1' title='bbox 536 612 1055 677; x_wconf 77' lang='lat' dir='ltr'><strong>MORPHOLO(</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1074 616 1190 678; x_wconf 74' lang='lat' dir='ltr'><strong>iIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 404 917 1304 1007">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 404 917 1304 1007">
+     <span class='ocr_line' id='line_1_2' title="bbox 404 917 1304 1007; baseline 0.006 -5"><span class='ocrx_word' id='word_1_3' title='bbox 404 917 1304 1007; x_wconf 81' lang='lat' dir='ltr'><strong>FLORIDEARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 736 1578 969 1614">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 736 1578 969 1614">
+     <span class='ocr_line' id='line_1_3' title="bbox 736 1578 969 1614; baseline 0.009 -2"><span class='ocrx_word' id='word_1_4' title='bbox 736 1578 969 1614; x_wconf 62' lang='lat' dir='ltr'>AUCTORE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 356 1706 1342 1761">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 356 1706 1342 1761">
+     <span class='ocr_line' id='line_1_4' title="bbox 356 1706 1342 1761; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 356 1706 618 1759; x_wconf 83' lang='lat' dir='ltr'><strong>JACOBO</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 658 1708 977 1761; x_wconf 74' lang='lat' dir='ltr'><strong>GEORGIO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1013 1709 1342 1761; x_wconf 79' lang='lat' dir='ltr'><strong>AGARDH.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 485 2799 1205 2899">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 485 2799 1205 2899">
+     <span class='ocr_line' id='line_1_5' title="bbox 485 2799 1205 2835; baseline 0.004 -4"><span class='ocrx_word' id='word_1_8' title='bbox 485 2799 676 2832; x_wconf 39' lang='lat' dir='ltr'>LIPSIAE:</span> <span class='ocrx_word' id='word_1_9' title='bbox 704 2799 832 2833; x_wconf 55' lang='lat' dir='ltr'><strong>APVD</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 860 2800 900 2834; x_wconf 88' lang='lat' dir='ltr'><strong>T.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 929 2800 967 2835; x_wconf 90' lang='lat' dir='ltr'><strong>O.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 994 2801 1205 2834; x_wconf 52' lang='lat' dir='ltr'><strong>Wlfiwffl„</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 787 2858 903 2899; baseline 0.009 -2"><span class='ocrx_word' id='word_1_13' title='bbox 787 2858 903 2899; x_wconf 54' lang='lat'>1880.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
